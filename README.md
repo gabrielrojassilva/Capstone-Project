@@ -1,6 +1,6 @@
 # Capstone-Project
 <html>
-  <p>In this file repository you will find the final project I did at MITxPro Professional Coding Certificate. </p>
+  <p>In this file repository you will find the final project I did at MITxPRO Professional Coding Certificate. </p>
   
   <h1> Usage and Support </h1>
     <p>In order to use this code, you need to unzip the node_modules.zip file and copy all files including the extracted ones to a project folder.</p>
