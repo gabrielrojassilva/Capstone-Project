@@ -12,8 +12,8 @@
         <li>Withdraw: Withdraw amount from actual balance.</li>
         <li>Balance: Actual balance.</li>
         <li>All Data: List all users created in database.</li>
-        
       </ul>
+  
     <p>For more detailed information, contact me at grojas.s@ucb.edu.bo</p>
   <h1> Future improvements </h1>
     <p> 
