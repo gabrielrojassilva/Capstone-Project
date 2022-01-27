@@ -14,7 +14,7 @@
         <li>All Data: List all users created in database.</li>
       </ul>
   
-    <p>For more detailed information, contact me at grojas.s@ucb.edu.bo</p>
+   <p>For more detailed information, contact me at grojas.s@ucb.edu.bo .</p>
   <h1> Future improvements </h1>
     <p> 
       <ul>
